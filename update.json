@@ -1,9 +1,10 @@
 {
   "latest_version": "5.3",
-  "download_url": "https://github.com/kevenoo/clinicpro/releases/download/updater/pro.v5.2.updater.zip",
+  "download_url": "https://github.com/kevenoo/clinicpro/releases/download/clinicpro.v1/pro.v5.2.updater.zip",
   "force_update": true,
   "release_notes": "تم إضافة تحسينات في واجهة المستخدم."
 }
+
 
 
 
