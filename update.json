@@ -1,8 +1,9 @@
 {
   "latest_version": "5.3",
-  "download_url": "https://github.com/DrAhmed/ClinicApp/releases/download/v5.3/update_pkg.zip",
+  "download_url": "https://github.com/kevenoo/clinicpro/releases/download/updater/pro.v5.2.updater.zip",
   "force_update": true,
   "release_notes": "تم إضافة تحسينات في واجهة المستخدم."
 }
+
 
 
