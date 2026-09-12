@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.9",
+  "latest_version": "1.4",
   "download_url": "https://github.com/kevenoo/clinicpro/releases/download/prox/MyApp3.zip",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "تم إضافة تحسينات في واجهة المستخدم."
 }
 
